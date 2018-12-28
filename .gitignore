@@ -33,6 +33,7 @@ capybara-*.html
 /autheg-backend/vendor/bundle/*
 /autheg-backend/log/*
 /autheg-backend/tmp/*
+/autheg-backend/test/*
 /autheg-backend/public/system/*
 /autheg-backend/coverage/
 /autheg-backend/spec/tmp/*
@@ -46,7 +47,7 @@ pickle-email-*.html
 *~
 erd.pdf
 \#*#
-tags
+/autheg-backend/tags
 TAGS
 **.swp
 .ruby-version
