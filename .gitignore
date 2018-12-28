@@ -8,8 +8,8 @@
 /.bundle
 
 # Ignore all logfiles and tempfiles.
-/auth-backend/log/*
-/auth-backend/tmp/*
+/autheg-backend/log/*
+/autheg-backend/tmp/*
 !/log/.keep
 !/tmp/.keep
 
@@ -21,22 +21,22 @@
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
-/auth-backend/.bundle
-/auth-backend/db/*.sqlite3
-/auth-backend/db/*.sqlite3-journal
+/autheg-backend/.bundle
+/autheg-backend/db/*.sqlite3
+/autheg-backend/db/*.sqlite3-journal
 *.rbc
 *.sassc
 .sass-cache
 capybara-*.html
 .rvmrc
-/auth-backend/vendor/bundle
-/auth-backend/vendor/bundle/*
-/auth-backend/log/*
-/auth-backend/tmp/*
-/auth-backend/public/system/*
-/auth-backend/coverage/
-/auth-backend/spec/tmp/*
-/auth-backend/spec/factory.rb
+/autheg-backend/vendor/bundle
+/autheg-backend/vendor/bundle/*
+/autheg-backend/log/*
+/autheg-backend/tmp/*
+/autheg-backend/public/system/*
+/autheg-backend/coverage/
+/autheg-backend/spec/tmp/*
+/autheg-backend/spec/factory.rb
 **.orig
 rerun.txt
 pickle-email-*.html
@@ -51,7 +51,7 @@ TAGS
 **.swp
 .ruby-version
 .env
-/auth-backend/config/shards.yml
-/auth-backend/db/schema.rb
-/auth-backend/node_modules/*
-/auth-frontend/node_modules/*
+/autheg-backend/config/shards.yml
+/autheg-backend/db/schema.rb
+/autheg-backend/node_modules/*
+/autheg-frontend/node_modules/*
