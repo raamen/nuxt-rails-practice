@@ -30,6 +30,7 @@
 capybara-*.html
 .rvmrc
 /auth-backend/vendor/bundle
+/auth-backend/vendor/bundle/*
 /auth-backend/log/*
 /auth-backend/tmp/*
 /auth-backend/public/system/*
